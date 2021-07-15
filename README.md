@@ -13,15 +13,13 @@ None
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/sliding-ball-animation/blob/main/images/screenshot.png)
 
 ## Languages/Applications
-HTML,CSS,JavaScript
+HTML,CSS
 
 ## Repository URL
 https://github.com/Mannyalfa/sliding-ball-animation 
-
-## Test
 
 ## Website
 https://mannyalfa.github.io/sliding-ball-animation/
