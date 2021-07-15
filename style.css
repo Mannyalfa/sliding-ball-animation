@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: #182c35; 
+    background: #13232A; 
 }
 header{
     font-family: cursive;
@@ -16,7 +16,7 @@ header{
     width: 80px;
     height: 80px;
     background: transparent;
-    border: 5px solid #fff;
+    border: 5px solid white;
     border-radius: 3px;
     animation: 5s box linear infinite;
     }
@@ -25,7 +25,7 @@ header{
         position: absolute;
         width: 30px;
         height: 30px;
-        background: #fff;
+        background: white;
         border-radius: 50%;
         box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
         animation: 5s ball linear infinite; 
